@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project aims to automate and optimise ROAS drive amazon DSP campaign based on real-time KPI analysis (ROAS) across 1 market: UK using AWS services.
+This project aims to automate and optimise a ROAS driven amazon DSP campaign based on real-time KPI analysis (ROAS) across 1 market: UK using AWS services.
 
 ## Components and AWS Services
 
